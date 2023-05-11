@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("IT department notes for AKTU")
 
-st.header("Developed by sqrt676")
+st.header("Developed by sqrt676 for his friends LOL")
 
 
 course = st.selectbox(
