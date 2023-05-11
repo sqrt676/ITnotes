@@ -25,7 +25,7 @@ if course=="SE":
     finallink="https://drive.google.com/drive/folders/11_-sZfGTEERNqzdSqsUCj7tVHcK7vXUX?usp=sharing"
 if course=="RTS":
     finallink="https://drive.google.com/drive/folders/15Qz4ZHX7hm8mMH5zFTgFVUzBjAuws0lF?usp=sharing"
-if course=="ITCS"
+if course=="ITCS":
     finallink="https://drive.google.com/drive/folders/13JspqgPYNk2YCH8jjNxA_gS4Jx5UB2ls?usp=sharing"
 
 url = finallink
